@@ -1,0 +1,98 @@
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\DuteIT.dll
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\DuteIT.pdb
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\DuteIT.dll.manifest
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\DuteIT.vsto
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.DTI_Forms.Label_Color.resources
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.DTI_Forms.Lable_KeyWord.resources
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.DTI_Forms.POC_SendEmail.resources
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.DuteIT.resources
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.OK_FocusOn.resources
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.CopyComplete
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.dll
+C:\Users\Administrator\Desktop\VSTO\DTI插件\DuteIT\obj\Debug\DuteIT.pdb
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\DuteIT.dll
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\DuteIT.pdb
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\DuteIT.dll.manifest
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\DuteIT.vsto
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.AssemblyReference.cache
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.DTI_Forms.Label_Color.resources
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.DTI_Forms.Lable_KeyWord.resources
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.DTI_Forms.POC_SendEmail.resources
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.DuteIT.resources
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.OK_FocusOn.resources
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.Properties.Resources.resources
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.GenerateResource.cache
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.CoreCompileInputs.cache
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.csproj.CopyComplete
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.dll
+C:\Users\mininglamp\Desktop\DTI插件\DuteIT\obj\Debug\DuteIT.pdb
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.Label_Color.resources
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.Lable_KeyWord.resources
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.POC_SendEmail.resources
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DuteIT.resources
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.OK_FocusOn.resources
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.Properties.Resources.resources
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.GenerateResource.cache
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.CoreCompileInputs.cache
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.dll
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.pdb
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.dll
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.pdb
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.dll.manifest
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.vsto
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.CopyComplete
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.AssemblyReference.cache
+C:\Users\mininglamp\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.Text_MatchDelete.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.dll
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.pdb
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.dll.manifest
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\DuteIT.vsto
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.Label_Color.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.Lable_KeyWord.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.POC_SendEmail.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DTI_Forms.Text_MatchDelete.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.DuteIT.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.OK_FocusOn.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.dll
+C:\Users\Administrator\Desktop\DTI NEW\DuteIT\obj\Debug\DuteIT.pdb
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\DuteIT.dll
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\DuteIT.pdb
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\DuteIT.dll.manifest
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\DuteIT.vsto
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.DTI_Forms.Label_Color.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.DTI_Forms.Lable_KeyWord.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.DTI_Forms.POC_SendEmail.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.DTI_Forms.Text_MatchDelete.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.DuteIT.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.OK_FocusOn.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.dll
+C:\Users\Administrator\Desktop\DTI NEW 2023-3-28 18_04\DuteIT\obj\Debug\DuteIT.pdb
