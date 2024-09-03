@@ -13,7 +13,7 @@ DuteIT 插件提供了以下核心功能：
 
 ### 功能截图
 
-![DuteIT 功能截图](https://github.com/90le/DuteIt/blob/master/index.png)
+![DuteIT 功能截图](index.png)
 
 上图展示了 DuteIT 插件的用户界面及其主要功能模块。通过此界面，用户可以方便地访问和使用插件的各种实用工具。
 
